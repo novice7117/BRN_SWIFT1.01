@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property NSString *hello;
+
 
 @end
 
